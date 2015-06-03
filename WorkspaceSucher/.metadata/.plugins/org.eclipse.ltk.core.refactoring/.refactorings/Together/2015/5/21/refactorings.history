@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;story.Seeker.wapdmg&apos; in &apos;story.Seeker&apos;&#x0D;&#x0A;- Original project: &apos;Together&apos;&#x0D;&#x0A;- Original element: &apos;story.Seeker.wapdmg&apos;&#x0D;&#x0A;- Getter method name: &apos;getWapdmg&apos;&#x0D;&#x0A;- Setter method name: &apos;setWapdmg&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;wapdmg&apos;" flags="589830" getter="getWapdmg" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;story{Seeker.java[Seeker^wapdmg" insertion="26" setter="setWapdmg" stamp="1432036942005" version="1.0" visibility="1"/>
+</session>
